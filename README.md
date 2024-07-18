@@ -2,8 +2,13 @@
 LinkedIn job searching for the pass 24h, hybrid or onsite, mid senior position.
 
 ## Prerequisite:
-- Install ollama and download ollama language model, ie phi3, llama3, etc. Check [here](https://github.com/ollama/ollama/blob/main/README.md#model-library) for available models.
+- Install [ollama](https://github.com/ollama/ollama/blob/main/README.md) and download ollama language model, ie phi3, llama3, etc. Check [here](https://github.com/ollama/ollama/blob/main/README.md#model-library) for available models.
 - Run ollama server `ollama serve`
+
+## Init
+- `python -m venv <your_environment>`
+- `source <your_environment>/bin/activate`
+- `pip install -r requirements.txt`
 
 ## Skill ingestion
 - Create a `skill_datas` folder and put your skills in a txt file in this folder.

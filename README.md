@@ -11,7 +11,7 @@ LinkedIn job searching for the pass 24h, hybrid or onsite, mid senior position.
 - `pip install -r requirements.txt`
 
 ## Skill ingestion
-- Create a `skill_datas` folder and put your skills in a txt file in this folder.
+- Create a `skills_data` folder and put your skills in a txt file in this folder.
 - Run `python ingest.py <language_model>`
 - Example: `python ingest.py llama3`
 

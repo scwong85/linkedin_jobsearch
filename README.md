@@ -15,4 +15,4 @@ LinkedIn job searching for the pass 24h, hybrid or onsite, mid senior position.
 - Example: `python main.py "Bioinformatics" "Germany" llama3`
 
 ## Results
-- The results are written in <keyword>_<location>_<language_model> file.
+- The results are written in `<keyword>_<location>_<language_model>` file.
